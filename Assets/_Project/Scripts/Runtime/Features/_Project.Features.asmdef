@@ -1,0 +1,19 @@
+{
+    "name": "_Project.Features",
+    "rootNamespace": "_Project.Scripts.Runtime.Features",
+    "references": [
+        "GUID:9814dbcdb6600cb4db29aa1197ab8924",
+        "GUID:7c1c0f5c935bb02498d781cd38a1aff7",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

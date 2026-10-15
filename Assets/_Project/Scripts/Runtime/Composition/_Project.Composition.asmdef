@@ -1,0 +1,21 @@
+{
+    "name": "_Project.Composition",
+    "rootNamespace": "_Project.Scripts.Runtime.Composition",
+    "references": [
+        "_Project.UI",
+        "_Project.Features",
+        "_Project.Infrastructure",
+        "_Project.Core",
+        "VContainer",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

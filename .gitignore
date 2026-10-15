@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Ignoring some stuff
+/Assets/Plugins/Sirenix/
+/Assets/TutorialInfo/
