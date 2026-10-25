@@ -1,4 +1,5 @@
 using _Project.Scripts.Runtime.Features.WorldGeneration;
+using _Project.Scripts.Runtime.Core.WorldGeneration;
 using VContainer;
 using VContainer.Unity;
 

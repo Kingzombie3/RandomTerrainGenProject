@@ -254,7 +254,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1109284518
 Transform:
@@ -287,14 +287,14 @@ MonoBehaviour:
   _terrainLayer: {fileID: 8574412962073106934, guid: 8c3567d49a2a8304ba4e7d2faf2228ff, type: 2}
   _terrainDataTemplate: {fileID: 15600000, guid: 9dedcbcdef61d6e45876c0720a6bdfb3, type: 2}
   _terrainMaterial: {fileID: 2100000, guid: 4d0c0df05a5dccb43bb643aaec8d64fa, type: 2}
-  gridSize: 3
-  _chunkSize: 100
-  _mapResolution: 513
+  gridSize: 9
+  _chunkSize: 128
+  _mapResolution: 129
   _scale: 350
-  _octaves: 3
-  _persistence: 0.5
+  _octaves: 5
+  _persistence: 0.45
   _lacunarity: 2
-  _offset: {x: 0, y: 0}
+  _offset: {x: 40, y: 40}
 --- !u!1 &1422976770
 GameObject:
   m_ObjectHideFlags: 0
